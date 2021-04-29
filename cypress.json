@@ -1,0 +1,9 @@
+{
+
+"baseUrl" : "https://test.buildgcp.com",
+"ignoreTestFiles" : "**/examples/*",
+"viewportHeight": 600,
+"viewportWidth": 1000
+
+}
+ 

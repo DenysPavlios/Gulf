@@ -1,0 +1,25 @@
+{
+  "name": "gulf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisPavlichenko/Gulf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisPavlichenko/Gulf/issues"
+  },
+  "homepage": "https://github.com/DenisPavlichenko/Gulf#readme",
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  },
+  "dependencies": {
+    "cypress-commands": "^1.1.0"
+  },
+  "description": ""
+}

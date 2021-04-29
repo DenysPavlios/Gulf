@@ -1,0 +1,1130 @@
+{
+    "jsonrpc": "2.0",
+    "id": "9f37ba68",
+    "result": {
+        "total": 23,
+        "items": [
+            {
+                "fullName": "Test Auto",
+                "tagName": "TestAuto",
+                "id": "42",
+                "email": "1010qatest1010@gmail.com",
+                "userName": "7ee2e6b5-89ee-40ce-b704-68dccba7647a",
+                "cognitoId": "6302c871-0b99-4db5-b2bd-6c330f5e0dbc",
+                "name": "Test",
+                "familyName": "Auto",
+                "phone": "+1234567892",
+                "disabledAt": null,
+                "createdAt": "2021-04-26T12:49:00.023Z",
+                "updatedAt": "2021-04-26T12:49:00.023Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "2",
+                        "title": "view only",
+                        "permissions": {
+                            "rfi": 50,
+                            "payroll": 50,
+                            "contacts": 50,
+                            "documents": 50,
+                            "structure": 50,
+                            "submittal": 50,
+                            "financials": 50,
+                            "quickBooks": 50,
+                            "assignments": 50,
+                            "changeOrders": 50,
+                            "closeOutDocs": 50,
+                            "databaseBase": 50,
+                            "jobsiteSafety": 50,
+                            "userManagement": 50,
+                            "serviceWarranty": 50,
+                            "databaseTemplates": 50,
+                            "schedulePermitsInspections": 50
+                        },
+                        "createdAt": "2020-10-09T10:42:40.835Z",
+                        "updatedAt": "2021-03-02T12:12:59.994Z",
+                        "UserRole": {
+                            "id": "51",
+                            "userId": "42",
+                            "roleId": "2",
+                            "role_id": "2",
+                            "user_id": "42"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "Rew tes",
+                "tagName": "Rewtes",
+                "id": "41",
+                "email": "peltabugna@biyac.com",
+                "userName": "ffed987b-284d-465b-8a00-650b14921b8c",
+                "cognitoId": "26d1058d-1c26-498c-a060-8f9593893e27",
+                "name": "Rew",
+                "familyName": "tes",
+                "phone": "+19991112233",
+                "disabledAt": null,
+                "createdAt": "2021-04-26T08:49:13.010Z",
+                "updatedAt": "2021-04-26T08:49:13.010Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "2",
+                        "title": "view only",
+                        "permissions": {
+                            "rfi": 50,
+                            "payroll": 50,
+                            "contacts": 50,
+                            "documents": 50,
+                            "structure": 50,
+                            "submittal": 50,
+                            "financials": 50,
+                            "quickBooks": 50,
+                            "assignments": 50,
+                            "changeOrders": 50,
+                            "closeOutDocs": 50,
+                            "databaseBase": 50,
+                            "jobsiteSafety": 50,
+                            "userManagement": 50,
+                            "serviceWarranty": 50,
+                            "databaseTemplates": 50,
+                            "schedulePermitsInspections": 50
+                        },
+                        "createdAt": "2020-10-09T10:42:40.835Z",
+                        "updatedAt": "2021-03-02T12:12:59.994Z",
+                        "UserRole": {
+                            "id": "50",
+                            "userId": "41",
+                            "roleId": "2",
+                            "role_id": "2",
+                            "user_id": "41"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "RWrw wrqrqwr",
+                "tagName": "RWrwwrqrqwr",
+                "id": "40",
+                "email": "asfaf@gmail.com",
+                "userName": "aeb788e5-df93-49ea-be83-510262a09175",
+                "cognitoId": "0b20c46c-6526-4576-ad9a-c2e3a9eaa23e",
+                "name": "RWrw",
+                "familyName": "wrqrqwr",
+                "phone": "+380662093500",
+                "disabledAt": null,
+                "createdAt": "2021-04-26T07:42:28.343Z",
+                "updatedAt": "2021-04-26T07:42:28.343Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "9",
+                        "title": "TestRole",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2021-03-02T14:15:23.085Z",
+                        "updatedAt": "2021-03-04T13:11:54.480Z",
+                        "UserRole": {
+                            "id": "49",
+                            "userId": "40",
+                            "roleId": "9",
+                            "role_id": "9",
+                            "user_id": "40"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "iveljqujc@emlhub.com iveljqujc@emlhub.com",
+                "tagName": "iveljqujc@emlhub.comiveljqujc@emlhub.com",
+                "id": "36",
+                "email": "iveljqujc@emlhub.com",
+                "userName": "64570536-eb9b-4429-a15e-0958fe03e171",
+                "cognitoId": "61f0d24b-f76e-41ce-9b82-f0dcba2b592b",
+                "name": "iveljqujc@emlhub.com",
+                "familyName": "iveljqujc@emlhub.com",
+                "phone": "+1365656565",
+                "disabledAt": null,
+                "createdAt": "2021-04-26T07:16:53.161Z",
+                "updatedAt": "2021-04-26T07:16:53.161Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "1",
+                        "title": "admin",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-08T11:30:16.355Z",
+                        "updatedAt": "2021-03-02T12:12:39.164Z",
+                        "UserRole": {
+                            "id": "45",
+                            "userId": "36",
+                            "roleId": "1",
+                            "role_id": "1",
+                            "user_id": "36"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "test1 test11",
+                "tagName": "test1test11",
+                "id": "35",
+                "email": "test12@gmail.com",
+                "userName": "4ac369f0-f645-407e-a984-cf7f819e2a0a",
+                "cognitoId": "f12a350f-3be3-4645-b94a-eedd54413bee",
+                "name": "test1",
+                "familyName": "test11",
+                "phone": "+10992123500",
+                "disabledAt": null,
+                "createdAt": "2021-03-16T13:57:02.660Z",
+                "updatedAt": "2021-03-16T13:57:02.660Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "9",
+                        "title": "TestRole",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2021-03-02T14:15:23.085Z",
+                        "updatedAt": "2021-03-04T13:11:54.480Z",
+                        "UserRole": {
+                            "id": "44",
+                            "userId": "35",
+                            "roleId": "9",
+                            "role_id": "9",
+                            "user_id": "35"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "test1 test11",
+                "tagName": "test1test11",
+                "id": "34",
+                "email": "test11@gmail.com",
+                "userName": "f024ec6b-a73a-4ba4-97b4-b3ce61d7ac19",
+                "cognitoId": "1274da47-e2d0-44b3-b950-88fe9f7f7157",
+                "name": "test1",
+                "familyName": "test11",
+                "phone": "+10992193500",
+                "disabledAt": null,
+                "createdAt": "2021-03-16T13:54:22.207Z",
+                "updatedAt": "2021-03-16T13:54:22.207Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "9",
+                        "title": "TestRole",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2021-03-02T14:15:23.085Z",
+                        "updatedAt": "2021-03-04T13:11:54.480Z",
+                        "UserRole": {
+                            "id": "43",
+                            "userId": "34",
+                            "roleId": "9",
+                            "role_id": "9",
+                            "user_id": "34"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "test7 test7",
+                "tagName": "test7test7",
+                "id": "33",
+                "email": "test10@gmail.com",
+                "userName": "7c00fe0f-3d9e-46c0-87c6-6a47d8dd7925",
+                "cognitoId": "2a79b958-1847-4fc0-8846-de2e5c963f25",
+                "name": "test7",
+                "familyName": "test7",
+                "phone": "+10992093500",
+                "disabledAt": null,
+                "createdAt": "2021-03-16T13:51:06.935Z",
+                "updatedAt": "2021-03-16T13:51:06.935Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "9",
+                        "title": "TestRole",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2021-03-02T14:15:23.085Z",
+                        "updatedAt": "2021-03-04T13:11:54.480Z",
+                        "UserRole": {
+                            "id": "42",
+                            "userId": "33",
+                            "roleId": "9",
+                            "role_id": "9",
+                            "user_id": "33"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "test8 test8",
+                "tagName": "test8test8",
+                "id": "32",
+                "email": "test8@gmail.com",
+                "userName": "4d9bf0bc-facf-4d4e-a7af-70b1f494d2d5",
+                "cognitoId": "f7c9428e-d88b-4cf0-aa5c-47dccca98bf5",
+                "name": "test8",
+                "familyName": "test8",
+                "phone": "+120935001111",
+                "disabledAt": null,
+                "createdAt": "2021-03-09T21:52:02.949Z",
+                "updatedAt": "2021-03-09T21:52:02.949Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "9",
+                        "title": "TestRole",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2021-03-02T14:15:23.085Z",
+                        "updatedAt": "2021-03-04T13:11:54.480Z",
+                        "UserRole": {
+                            "id": "41",
+                            "userId": "32",
+                            "roleId": "9",
+                            "role_id": "9",
+                            "user_id": "32"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "Test Rolle",
+                "tagName": "TestRolle",
+                "id": "27",
+                "email": "0n4am89e@freeml.net",
+                "userName": "08e2c8d7-1591-4e9b-99e0-2b4fb7184166",
+                "cognitoId": "eef08b89-b480-4c9a-b908-d78c2f40044e",
+                "name": "Test",
+                "familyName": "Rolle",
+                "phone": "+773472637263",
+                "disabledAt": null,
+                "createdAt": "2021-03-02T14:16:48.137Z",
+                "updatedAt": "2021-03-02T14:16:48.137Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "9",
+                        "title": "TestRole",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2021-03-02T14:15:23.085Z",
+                        "updatedAt": "2021-03-04T13:11:54.480Z",
+                        "UserRole": {
+                            "id": "36",
+                            "userId": "27",
+                            "roleId": "9",
+                            "role_id": "9",
+                            "user_id": "27"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "only view",
+                "tagName": "onlyview",
+                "id": "26",
+                "email": "cvdcemcv@firste.ml",
+                "userName": "aadcda46-0eec-4b78-99dd-850bcb358c84",
+                "cognitoId": "d87eff23-fc4f-4e63-8a76-015c0260f4aa",
+                "name": "only",
+                "familyName": "view",
+                "phone": "+4314139877819239",
+                "disabledAt": null,
+                "createdAt": "2021-03-02T14:07:23.798Z",
+                "updatedAt": "2021-03-02T14:07:23.798Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "2",
+                        "title": "view only",
+                        "permissions": {
+                            "rfi": 50,
+                            "payroll": 50,
+                            "contacts": 50,
+                            "documents": 50,
+                            "structure": 50,
+                            "submittal": 50,
+                            "financials": 50,
+                            "quickBooks": 50,
+                            "assignments": 50,
+                            "changeOrders": 50,
+                            "closeOutDocs": 50,
+                            "databaseBase": 50,
+                            "jobsiteSafety": 50,
+                            "userManagement": 50,
+                            "serviceWarranty": 50,
+                            "databaseTemplates": 50,
+                            "schedulePermitsInspections": 50
+                        },
+                        "createdAt": "2020-10-09T10:42:40.835Z",
+                        "updatedAt": "2021-03-02T12:12:59.994Z",
+                        "UserRole": {
+                            "id": "35",
+                            "userId": "26",
+                            "roleId": "2",
+                            "role_id": "2",
+                            "user_id": "26"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "test admin",
+                "tagName": "testadmin",
+                "id": "25",
+                "email": "bcdipzdkd@emltmp.com",
+                "userName": "56ede28a-bcae-488c-905a-eae70f0786d4",
+                "cognitoId": "515f565e-ea59-4be1-9818-592a5a37e235",
+                "name": "test",
+                "familyName": "admin",
+                "phone": "+78789234234432",
+                "disabledAt": null,
+                "createdAt": "2021-03-02T14:04:27.731Z",
+                "updatedAt": "2021-03-02T14:04:55.914Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "1",
+                        "title": "admin",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-08T11:30:16.355Z",
+                        "updatedAt": "2021-03-02T12:12:39.164Z",
+                        "UserRole": {
+                            "id": "34",
+                            "userId": "25",
+                            "roleId": "1",
+                            "role_id": "1",
+                            "user_id": "25"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "Denis Pavlio",
+                "tagName": "DenisPavlio",
+                "id": "19",
+                "email": "oajsfdbw@10mail.org",
+                "userName": "137bb4ec-3608-4a3f-88e8-495a4521ea2c",
+                "cognitoId": "2b1590f3-a9e6-4a59-a96b-e166908bd31a",
+                "name": "Denis",
+                "familyName": "Pavlio",
+                "phone": "+12345678910",
+                "disabledAt": null,
+                "createdAt": "2021-03-01T06:33:16.763Z",
+                "updatedAt": "2021-03-01T06:33:16.763Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "1",
+                        "title": "admin",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-08T11:30:16.355Z",
+                        "updatedAt": "2021-03-02T12:12:39.164Z",
+                        "UserRole": {
+                            "id": "27",
+                            "userId": "19",
+                            "roleId": "1",
+                            "role_id": "1",
+                            "user_id": "19"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "Olya Kolomoets",
+                "tagName": "OlyaKolomoets",
+                "id": "18",
+                "email": "okolomoets86@gmail.com",
+                "userName": "ac8da3ee-c898-4e7f-a0f8-a09456cf5b85",
+                "cognitoId": "69f89fbc-c7ca-47fa-bc2c-ad89ac0aecea",
+                "name": "Olya",
+                "familyName": "Kolomoets",
+                "phone": "+17676543216",
+                "disabledAt": null,
+                "createdAt": "2021-02-26T10:06:49.102Z",
+                "updatedAt": "2021-02-26T10:06:49.102Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "1",
+                        "title": "admin",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-08T11:30:16.355Z",
+                        "updatedAt": "2021-03-02T12:12:39.164Z",
+                        "UserRole": {
+                            "id": "26",
+                            "userId": "18",
+                            "roleId": "1",
+                            "role_id": "1",
+                            "user_id": "18"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "fwfwfOI fewfwef",
+                "tagName": "fwfwfOIfewfwef",
+                "id": "17",
+                "email": "wfej3jf@mail.ru",
+                "userName": "1703678f-b8cb-4289-b179-bb5330d861ed",
+                "cognitoId": "827f9c1c-0ffc-4f9e-886f-ec8c9995cd1f",
+                "name": "fwfwfOI",
+                "familyName": "fewfwef",
+                "phone": "+40530305837",
+                "disabledAt": null,
+                "createdAt": "2021-02-26T09:59:37.512Z",
+                "updatedAt": "2021-02-26T09:59:37.512Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "3",
+                        "title": "can edit",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-12T11:50:36.764Z",
+                        "updatedAt": "2021-03-02T12:12:50.960Z",
+                        "UserRole": {
+                            "id": "25",
+                            "userId": "17",
+                            "roleId": "3",
+                            "role_id": "3",
+                            "user_id": "17"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "fwfwfOI fewfwef",
+                "tagName": "fwfwfOIfewfwef",
+                "id": "16",
+                "email": "wfejjf@mail.ru",
+                "userName": "2b4c5c48-e467-4490-b981-69eab4966ad0",
+                "cognitoId": "22e3f9ef-eabc-4f1f-9110-823a065fca90",
+                "name": "fwfwfOI",
+                "familyName": "fewfwef",
+                "phone": "+40530305837",
+                "disabledAt": null,
+                "createdAt": "2021-02-26T09:58:02.172Z",
+                "updatedAt": "2021-02-26T09:58:02.172Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "3",
+                        "title": "can edit",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-12T11:50:36.764Z",
+                        "updatedAt": "2021-03-02T12:12:50.960Z",
+                        "UserRole": {
+                            "id": "24",
+                            "userId": "16",
+                            "roleId": "3",
+                            "role_id": "3",
+                            "user_id": "16"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "test test",
+                "tagName": "testtest",
+                "id": "15",
+                "email": "test@mail.ru",
+                "userName": "6259a8a0-905f-4f2d-9512-13d15cca26ab",
+                "cognitoId": "19d2501a-4968-4370-b490-e1cdbe11223d",
+                "name": "test",
+                "familyName": "test",
+                "phone": "+132523523532523",
+                "disabledAt": null,
+                "createdAt": "2021-02-26T09:52:49.535Z",
+                "updatedAt": "2021-02-26T09:52:49.535Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "1",
+                        "title": "admin",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-08T11:30:16.355Z",
+                        "updatedAt": "2021-03-02T12:12:39.164Z",
+                        "UserRole": {
+                            "id": "23",
+                            "userId": "15",
+                            "roleId": "1",
+                            "role_id": "1",
+                            "user_id": "15"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "View USER View USER",
+                "tagName": "ViewUSERViewUSER",
+                "id": "14",
+                "email": "view@com.ua",
+                "userName": "f241f95e-b502-4a24-a6b0-7b3f100f497a",
+                "cognitoId": "9dc238fc-e413-4d9b-a70e-52de3d8cfe08",
+                "name": "View USER",
+                "familyName": "View USER",
+                "phone": "+380971234563",
+                "disabledAt": null,
+                "createdAt": "2020-12-22T07:38:49.037Z",
+                "updatedAt": "2020-12-22T07:38:49.037Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "3",
+                        "title": "can edit",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-12T11:50:36.764Z",
+                        "updatedAt": "2021-03-02T12:12:50.960Z",
+                        "UserRole": {
+                            "id": "22",
+                            "userId": "14",
+                            "roleId": "3",
+                            "role_id": "3",
+                            "user_id": "14"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "AdminTest admintest",
+                "tagName": "AdminTestadmintest",
+                "id": "13",
+                "email": "jcdrzivw@supere.ml",
+                "userName": "94c26fee-412e-4eab-afae-cb47f6e5a51a",
+                "cognitoId": "2547fb0b-d5d3-46be-89ce-a0665451b217",
+                "name": "AdminTest",
+                "familyName": "admintest",
+                "phone": "+380971234567",
+                "disabledAt": null,
+                "createdAt": "2020-11-23T14:14:50.277Z",
+                "updatedAt": "2020-11-23T14:14:50.277Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "2",
+                        "title": "view only",
+                        "permissions": {
+                            "rfi": 50,
+                            "payroll": 50,
+                            "contacts": 50,
+                            "documents": 50,
+                            "structure": 50,
+                            "submittal": 50,
+                            "financials": 50,
+                            "quickBooks": 50,
+                            "assignments": 50,
+                            "changeOrders": 50,
+                            "closeOutDocs": 50,
+                            "databaseBase": 50,
+                            "jobsiteSafety": 50,
+                            "userManagement": 50,
+                            "serviceWarranty": 50,
+                            "databaseTemplates": 50,
+                            "schedulePermitsInspections": 50
+                        },
+                        "createdAt": "2020-10-09T10:42:40.835Z",
+                        "updatedAt": "2021-03-02T12:12:59.994Z",
+                        "UserRole": {
+                            "id": "21",
+                            "userId": "13",
+                            "roleId": "2",
+                            "role_id": "2",
+                            "user_id": "13"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "David Mumford",
+                "tagName": "DavidMumford",
+                "id": "11",
+                "email": "david.mumford@revstarconsulting.com",
+                "userName": "8ab2eb17-ee33-4206-8c77-c31efb73bcf5",
+                "cognitoId": "24c927b4-d063-4342-822b-06653702f5d6",
+                "name": "David",
+                "familyName": "Mumford",
+                "phone": "+18138223863",
+                "disabledAt": null,
+                "createdAt": "2020-10-28T21:51:11.095Z",
+                "updatedAt": "2020-10-28T21:51:11.095Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "2",
+                        "title": "view only",
+                        "permissions": {
+                            "rfi": 50,
+                            "payroll": 50,
+                            "contacts": 50,
+                            "documents": 50,
+                            "structure": 50,
+                            "submittal": 50,
+                            "financials": 50,
+                            "quickBooks": 50,
+                            "assignments": 50,
+                            "changeOrders": 50,
+                            "closeOutDocs": 50,
+                            "databaseBase": 50,
+                            "jobsiteSafety": 50,
+                            "userManagement": 50,
+                            "serviceWarranty": 50,
+                            "databaseTemplates": 50,
+                            "schedulePermitsInspections": 50
+                        },
+                        "createdAt": "2020-10-09T10:42:40.835Z",
+                        "updatedAt": "2021-03-02T12:12:59.994Z",
+                        "UserRole": {
+                            "id": "20",
+                            "userId": "11",
+                            "roleId": "2",
+                            "role_id": "2",
+                            "user_id": "11"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "Evhenii Husiev",
+                "tagName": "EvheniiHusiev",
+                "id": "7",
+                "email": "evhenii.husiev+1@revstarconsulting.com",
+                "userName": "38a70f7e-7a7c-4c8a-8e8f-287871b52cca",
+                "cognitoId": "75295f01-794b-4494-8c1a-c27348a9c1aa",
+                "name": "Evhenii",
+                "familyName": "Husiev",
+                "phone": "+12365485225",
+                "disabledAt": null,
+                "createdAt": "2020-10-14T19:56:07.562Z",
+                "updatedAt": "2020-10-14T19:56:07.562Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "3",
+                        "title": "can edit",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-12T11:50:36.764Z",
+                        "updatedAt": "2021-03-02T12:12:50.960Z",
+                        "UserRole": {
+                            "id": "9",
+                            "userId": "7",
+                            "roleId": "3",
+                            "role_id": "3",
+                            "user_id": "7"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "aaaaaaa ssssssss",
+                "tagName": "aaaaaaassssssss",
+                "id": "6",
+                "email": "alexey+d6d66dd5@nordwhale.com",
+                "userName": "afac0553-13c9-4758-bf64-6657802044d6",
+                "cognitoId": "802bc685-d688-479a-85c8-07cdf80fb37f",
+                "name": "aaaaaaa",
+                "familyName": "ssssssss",
+                "phone": "+380937693315",
+                "disabledAt": null,
+                "createdAt": "2020-10-14T08:06:47.391Z",
+                "updatedAt": "2020-10-14T08:06:47.391Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "2",
+                        "title": "view only",
+                        "permissions": {
+                            "rfi": 50,
+                            "payroll": 50,
+                            "contacts": 50,
+                            "documents": 50,
+                            "structure": 50,
+                            "submittal": 50,
+                            "financials": 50,
+                            "quickBooks": 50,
+                            "assignments": 50,
+                            "changeOrders": 50,
+                            "closeOutDocs": 50,
+                            "databaseBase": 50,
+                            "jobsiteSafety": 50,
+                            "userManagement": 50,
+                            "serviceWarranty": 50,
+                            "databaseTemplates": 50,
+                            "schedulePermitsInspections": 50
+                        },
+                        "createdAt": "2020-10-09T10:42:40.835Z",
+                        "updatedAt": "2021-03-02T12:12:59.994Z",
+                        "UserRole": {
+                            "id": "8",
+                            "userId": "6",
+                            "roleId": "2",
+                            "role_id": "2",
+                            "user_id": "6"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "Evhenii Husiev",
+                "tagName": "EvheniiHusiev",
+                "id": "5",
+                "email": "evhenii.husiev@revstarconsulting.com",
+                "userName": "fcabba84-59f1-45bd-8ae7-3be8b9f6d410",
+                "cognitoId": "adcf5e68-6ee7-43b0-a71e-44f806a01b79",
+                "name": "Evhenii",
+                "familyName": "Husiev",
+                "phone": "+12556395140",
+                "disabledAt": null,
+                "createdAt": "2020-10-13T16:24:23.126Z",
+                "updatedAt": "2020-10-13T16:24:23.126Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "2",
+                        "title": "view only",
+                        "permissions": {
+                            "rfi": 50,
+                            "payroll": 50,
+                            "contacts": 50,
+                            "documents": 50,
+                            "structure": 50,
+                            "submittal": 50,
+                            "financials": 50,
+                            "quickBooks": 50,
+                            "assignments": 50,
+                            "changeOrders": 50,
+                            "closeOutDocs": 50,
+                            "databaseBase": 50,
+                            "jobsiteSafety": 50,
+                            "userManagement": 50,
+                            "serviceWarranty": 50,
+                            "databaseTemplates": 50,
+                            "schedulePermitsInspections": 50
+                        },
+                        "createdAt": "2020-10-09T10:42:40.835Z",
+                        "updatedAt": "2021-03-02T12:12:59.994Z",
+                        "UserRole": {
+                            "id": "7",
+                            "userId": "5",
+                            "roleId": "2",
+                            "role_id": "2",
+                            "user_id": "5"
+                        }
+                    }
+                ]
+            },
+            {
+                "fullName": "User Test",
+                "tagName": "UserTest",
+                "id": "1",
+                "email": "test-user@gcp.com",
+                "userName": null,
+                "cognitoId": "74ca697a-60d1-4b92-b8e2-eb5b068614a8",
+                "name": "User",
+                "familyName": "Test",
+                "phone": "+19991112233",
+                "disabledAt": null,
+                "createdAt": "2020-10-08T10:41:51.702Z",
+                "updatedAt": "2020-10-08T10:41:51.702Z",
+                "deletedAt": null,
+                "Roles": [
+                    {
+                        "id": "1",
+                        "title": "admin",
+                        "permissions": {
+                            "rfi": 70,
+                            "payroll": 70,
+                            "contacts": 70,
+                            "documents": 70,
+                            "structure": 70,
+                            "submittal": 70,
+                            "financials": 70,
+                            "quickBooks": 70,
+                            "assignments": 70,
+                            "changeOrders": 70,
+                            "closeOutDocs": 70,
+                            "databaseBase": 70,
+                            "jobsiteSafety": 70,
+                            "userManagement": 70,
+                            "serviceWarranty": 70,
+                            "databaseTemplates": 70,
+                            "schedulePermitsInspections": 70
+                        },
+                        "createdAt": "2020-10-08T11:30:16.355Z",
+                        "updatedAt": "2021-03-02T12:12:39.164Z",
+                        "UserRole": {
+                            "id": "1",
+                            "userId": "1",
+                            "roleId": "1",
+                            "role_id": "1",
+                            "user_id": "1"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
