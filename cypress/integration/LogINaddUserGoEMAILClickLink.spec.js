@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-let inboxId = "5939ace7-c663-4061-bd32-3c1cf1596fbf";
+let inboxId = "8f356b00-7db9-4f05-bd89-240cf3a37280";
 let value
 const pom = {}
 const password = "test-password";
@@ -44,7 +44,7 @@ describe('Reg users sing up', () => {
                     inboxId = inbox.id
                     emailAddress = inbox.emailAddress;
                 // sign up with inbox email address and the password
-                cy.get('[autocomplete="new-password"]').eq('3').type(emailAddress);
+                cy.get('[autocomplete="new-password"]').eq('3').type('8f356b00-7db9-4f05-bd89-240cf3a37280@mailslurp.com');
                 cy.get('[autocomplete="new-password"]').eq('4').type('234567892')
                 cy.get('[autocomplete="new-password"][autocomplete="new-password"]').eq('5').type("Test12345!");
                 cy.contains('Create User', { matchCase: false })
@@ -56,16 +56,16 @@ describe('Reg users sing up', () => {
             it('read mail', () => {
                 cy.waitForLatestEmail(inboxId, {}).then((email) => {
                     assert.isDefined(inboxId);
-                    value = /https:\/\/twitter.com\/[\"\']/.exec(email.body);
-                    value = value.map((value) => value.replace(/["']/g, ''));
-                    cy.wrap(value).as('myVerycustomLink');
-                    cy.get('@myVerycustomLink').then((myVerycustomLink) => {
-                        pom.url = myVerycustomLink.toString();
+                    value = /https:\/\/d124sflohj90.cloudfront.net/.exec(email.body);
+                    // value = value.map((value) => value.replace(/["']/g, ''));
+                    cy.wrap(value).as('myLink');
+                    cy.get('@myLink').then((myLink) => {
+                        pom.url = myLink.toString();
                         cy.visit(pom.url);
                     })
                 })
                         // cy.waitForLatestEmail(inboxId, {}).then((email) => {
-                        //     expect(email.subject).contains('Start following today', { matchCase: false })
+                        //     expect(email.subject).contains('Welcome Gulf', { matchCase: false })
             
                         // })
             
