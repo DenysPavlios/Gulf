@@ -1,4 +1,4 @@
 export let positive_tests_data = {
-    mailslurp_mail: '8f356b00-7db9-4f05-bd89-240cf3a37280@mailslurp.com',
-    inbox_mailslurp: '8f356b00-7db9-4f05-bd89-240cf3a37280',
+    mailslurp_mail: '857ab69a-3d5f-4cf3-87aa-35b38e63a556@mailslurp.biz',
+    inbox_mailslurp: '857ab69a-3d5f-4cf3-87aa-35b38e63a556',
     }

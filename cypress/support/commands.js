@@ -25,7 +25,7 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 const { MailSlurp } = require("mailslurp-client");
 
-const apiKey = "d637da1b65c41d555ec35784fd2357db7ed1888ff6f0940ab231a988ff9e1666";
+const apiKey = "23b13cde27b82e0b2b4bed1540948506b7935042cd3c6a56a4a77fd0ceb4e93a";
 const mailslurp = new MailSlurp({ apiKey });
 
 Cypress.Commands.add("createInbox", () => {
@@ -38,12 +38,16 @@ Cypress.Commands.add("waitForLatestEmail", (inboxId) => {      //
 })
 
 
-Cypress.Commands.add('getEmail', (emailId) => {
-    return mailslurp.getEmail(emailId);
-});
+// Cypress.Commands.add('getEmail', (emailId) => {
+//     return mailslurp.getEmail(emailId);
+// });
 
 
 
-
+Cypress.on('uncaught:exception', (err, runnable) => {
+    // returning false here prevents Cypress from
+    // failing the test
+    return false
+  })
 
 
