@@ -52,7 +52,7 @@ describe('Reg users sing up', () => {
                 .type('Test')
                 .get('[autocomplete="new-password"]').eq('2')
                 .type('Auto')
-                .get('[autocomplete="new-password"]').eq('3')
+                .get('[autocomp1lete="new-password"]').eq('3')
                 .type('1010q2test12010@gmail.com')
                 .get('[autocomplete="new-password"]').eq('4')
                 .type('234567892')
