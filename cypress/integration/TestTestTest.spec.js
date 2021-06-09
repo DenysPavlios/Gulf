@@ -46,7 +46,7 @@ describe('Reg users sing up', () => {
             cy.visit('https://test.buildgcp.com/users')
             cy.contains('Add User', { matchCase: false })
                 .click()
-                .get('.MuiSelect-root').click().wait(3000)8
+                .get('.MuiSelect-root').click().wait(3000)
                 .get('[data-value="2"]').click()
                 .get('[autocomplete="new-password"]').eq('1')
                 .type('Test')
