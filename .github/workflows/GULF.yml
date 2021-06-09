@@ -46,17 +46,17 @@ jobs:
         npm run combine:report
 
 
-#     - name: Merge test reports
-#     - run: npm run combine:report
+    - name: Merge test reports
+    - run: npm run combine:report
     
-#     - name: Generate HTML report
-#     - run: npm run generate:report
+    - name: Generate HTML report
+    - run: npm run generate:report
     
-#     - name: DeployGitPage
-#     - uses: peaceiris/actions-gh-pages@v3
-#     - with:
-#         gitgub_token: ${{ secrets.GITHUB_TOKEN}}
-#         publish_dir: ./public
+    - name: DeployGitPage
+    - uses: peaceiris/actions-gh-pages@v3
+    - with:
+        gitgub_token: ${{ secrets.GITHUB_TOKEN}}
+        publish_dir: ./public
 
 
 
