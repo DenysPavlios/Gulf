@@ -1,42 +1,129 @@
-name: Generate Cypress Report
-on:
-  push:
-    branches:
-    - 'master'
-    
-jobs:
-   cypress-test:
-     name: Run on Chrome 83
-     runs-on: ubuntu-18.04
-     container: cypress/browsers:node12.18.0-chrome83-ff77
-     steps:
-      - uses: actions/checkout@v2
-      
-      - name: Install cypress and veryfi
-        run:
-          npm ci
-          $(npm bin)/cypress veryfi
-        
-      - name: Run Cypress test
-        run: npm run test:chrome
-        continue-on-error: false
-        
-      - name: Copy test executin videos and screenshot
-        run: 
-          mkdir public
-          cp -r cypress/videos puvlic/videos
-          cp -r cypress/screenshot public/screenshots
-      - name: Merge test reports
-      - run: npm run combine:report
 
-      - name: Merge test reports
-      - run: npm run combine:report
+
+name: Cypress ci
+
+on:
+#   schedule:
+#     # * is a special character in YAML so you have to quote this string
+#     - cron:  '30 5,17 * * *'
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+      
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm i 
+    - run: npm i npx
+    - run: npm install cypress --save-dev
+    - run: npx cypress run 
+    - name: Copy test execution videos and screensshots
+      run: 
+        mkdir publi
+        cp -r cypress/videos puvlic/videos
+        cp -r cypress/screenshot public/screenshots
+#     - name: Merge test reports
+#     - run: npm run combine:report
     
-      - name: Generate HTML report
-      - run: npm run generate:report
+#     - name: Generate HTML report
+#     - run: npm run generate:report
     
-      - name: DeployGitPage
-      - uses: peaceiris/actions-gh-pages@v3
-      - with:
-          gitgub_token: ${{ secrets.GITHUB_TOKEN}}
-          publish_dir: ./public
+#     - name: DeployGitPage
+#     - uses: peaceiris/actions-gh-pages@v3
+#     - with:
+#         gitgub_token: ${{ secrets.GITHUB_TOKEN}}
+#         publish_dir: ./public
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# name: Generate Cypress Report
+# on:
+#   push:
+#     branches:
+#     - 'master'
+    
+# jobs:
+#    cypress-test:
+#      name: Run on Chrome 83
+#      runs-on: ubuntu-18.04
+#      container: cypress/browsers:node12.18.0-chrome83-ff77
+#      steps:
+#       - uses: actions/checkout@v2
+      
+#       - name: Install cypress and veryfi
+#         run:
+#           npm ci
+#           $(npm bin)/cypress veryfi
+        
+#       - name: Run Cypress test
+#         run: npm run test:chrome
+#         continue-on-error: false
+        
+#       - name: Copy test executin videos and screenshot
+#         run: 
+#           mkdir public
+#           cp -r cypress/videos puvlic/videos
+#           cp -r cypress/screenshot public/screenshots
+#       - name: Merge test reports
+#       - run: npm run combine:report
+
+#       - name: Merge test reports
+#       - run: npm run combine:report
+    
+#       - name: Generate HTML report
+#       - run: npm run generate:report
+    
+#       - name: DeployGitPage
+#       - uses: peaceiris/actions-gh-pages@v3
+#       - with:
+#           gitgub_token: ${{ secrets.GITHUB_TOKEN}}
+#           publish_dir: ./public
