@@ -35,8 +35,8 @@ jobs:
     - name: Copy test execution videos and screensshots
       run: 
         mkdir public
-        cp -r cypress/videos puvlic/videos
-        cp -r cypress/screenshot public/screenshots
+        cp -R cypress/videos puvlic/videos
+        cp -R cypress/screenshot public/screenshots
 #     - name: Merge test reports
 #     - run: npm run combine:report
     
