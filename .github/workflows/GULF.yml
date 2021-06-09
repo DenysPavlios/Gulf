@@ -37,7 +37,7 @@ jobs:
         mkdir public
     - name: Copy test execution videos and screensshots
       run: 
-        cp -R cypress/videos puvlic/videos
+        cp -R cypress/videos public/videos
     - name: Copy test execution videos and screensshots
       run: 
         cp -R cypress/screenshot public/screenshots
