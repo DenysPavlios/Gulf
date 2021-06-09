@@ -41,6 +41,11 @@ jobs:
     - name: Copy test execution videos and screensshots
       run: 
         cp -R cypress/screenshot public/screenshots
+    - name: Merge test reports
+      run:
+        npm run combine:report
+
+
 #     - name: Merge test reports
 #     - run: npm run combine:report
     
