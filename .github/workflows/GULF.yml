@@ -32,10 +32,8 @@ jobs:
     - run: npm i npx
     - run: npm install cypress --save-dev
     - run: npx cypress run 
-    - name: Copy test execution videos and screensshots
     - run: cp -r cypress/videos
     - run: cp -r cypress/screenshots
-    - name: Merge test reports
     - run: npm run combine:report
  
 
