@@ -52,11 +52,11 @@ jobs:
     - name: Generate HTML report
     - run: npm run generate:report
     
-    - name: DeployGitPage
-    - uses: peaceiris/actions-gh-pages@v3
-    - with:
-        gitgub_token: ${{ secrets.GITHUB_TOKEN}}
-        publish_dir: ./public
+#     - name: DeployGitPage
+#     - uses: peaceiris/actions-gh-pages@v3
+#     - with:
+#         gitgub_token: ${{ secrets.GITHUB_TOKEN}}
+#         publish_dir: ./public
 
 
 
